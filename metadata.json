@@ -1,0 +1,6 @@
+{
+  "name": "CareerVantage - Premium Job & Career Portal",
+  "description": "A modern, high-performance job finding portal featuring verified corporate and government listings, smart filters, candidate dashboards, and career insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
